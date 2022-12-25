@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solving Jigsaw Puzzle with bare Rust"
-image: 2022-11-30/p1.jpeg
+image: assets/img/2022-11-30/p1.jpeg
 ---
 
 I participate in a lot of programming competitions and usually, if you show good results, organizers send you some prizes. Typically it is just t-shirts, but at some point, you have too many of them, so you had to [make a bed cover from them](https://petr-mitrichev.blogspot.com/2014/01/this-week-in-competitive-programming.html). But sometimes prizes are more interesting. This time [Google HashCode](https://codingcompetitions.withgoogle.com/hashcode) organizers sent a jigsaw puzzle if you advanced to the finals. That was cool, so I decided to solve it.

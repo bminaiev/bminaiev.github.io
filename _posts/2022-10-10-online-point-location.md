@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online point location"
-image: 2022-10-10/problem.gif
+image: assets/img/2022-10-10/problem.gif
 ---
 
 Round 3 of Meta Hacker Cup 2022 finished a couple of days ago. Today I'll talk about the hardest [problem](https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-3/problems/E2) from that round, which was solved only by 3 people. The problem is quite classical, so basically after reading the problem statement, experienced competitive programmers already know what they need to write, but the amount of the code is pretty big, and almost nobody likes geometry problems, so this probably explains why there are so few accepted solutions.
