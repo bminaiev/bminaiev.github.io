@@ -194,7 +194,7 @@ Obviously, it is not perfect, but after all the work done before that moment, I 
 
 Well, this looks very incorrect! But it also looks a little bit promising. You can see that some pairs of pieces actually fit pretty nicely.
 
-Anyway, this post is already pretty long, and there is a lot more to cover in this story, so I decided to split it into two parts. **See you in part 2!**
+Anyway, this post is already pretty long, and there is a lot more to cover in this story, so I decided to split it into two parts. **See you in [part 2]({{ site.github.url }}/jigsaw-puzzle-solver-2)!**
 
 If you want some spoilers, you can check the GitHub repository with the source code and images: [https://github.com/BorysMinaiev/jigsaw-puzzle-solver](https://github.com/BorysMinaiev/jigsaw-puzzle-solver).
 
